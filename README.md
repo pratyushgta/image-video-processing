@@ -2,7 +2,7 @@
 This repository contains a series of Jupyter notebooks that cover a wide range of topics that were covered during my 3rd-year of Computer Engineering.
 
 ## Experiments
-#### 1. Image Initialization
+#### 0. Image Initialization
 - Inputting Image
 - Plotting Image
 - Darkening Image
